@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: #b3cc57;
+      }
+
+      .cls-5 {
+        fill: #755c3b;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 60px;
+      }
+
+      .cls-2, .cls-9 {
+        stroke: #b3cc57;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        fill: #fff;
+        stroke-width: 8px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="45.07" y="40.9" width="70" height="70"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="45.07" y="40.9" width="70" height="70"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="56.35" y="46" width="30" height="60"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-1" x="56.35" y="46" width="30" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="outer_circle" data-name="outer circle">
+    <ellipse class="cls-9" cx="76.14" cy="74.19" rx="62.91" ry="61.28"/>
+  </g>
+  <g id="D_shape" data-name="D shape">
+    <g class="cls-3">
+      <g class="cls-6">
+        <line class="cls-2" x1="32.47" y1="75.9" x2="84.75" y2="75.9"/>
+      </g>
+    </g>
+    <g class="cls-8">
+      <g class="cls-7">
+        <path class="cls-5" d="M116.35,75.94c0,16.53-13.41,29.94-29.94,29.94s-29.94-13.41-29.94-29.94,13.41-29.94,29.94-29.94,29.94,13.41,29.94,29.94"/>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <circle class="cls-1" cx="86.35" cy="74.19" r="6.61"/>
+    <circle class="cls-4" cx="86.35" cy="74.19" r="6.71"/>
+  </g>
+</svg>
